@@ -25,6 +25,7 @@ const Home = () => {
   
   return (
     <main>
+      <h2>Upload *-Inventory.txt files</h2>
       <form id="uploadForm" onSubmit={handleSubmit}>
         <input type="file" name="file" multiple />
         <button type="submit">Upload</button>
@@ -32,7 +33,7 @@ const Home = () => {
 
       <h2>Current inventory</h2>
 
-      
+
     </main>
   );
 };
