@@ -3,6 +3,7 @@
 const Home = () => {
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault(); // Prevent default form submission
+
     const formData = new FormData(event.currentTarget); // Create FormData from the form
     try {
       const response = await fetch('/api/upload', {
@@ -21,13 +22,17 @@ const Home = () => {
       // Handle exception
     }
   };
-
+  
   return (
     <main>
       <form id="uploadForm" onSubmit={handleSubmit}>
-        <input type="file" name="file" />
+        <input type="file" name="file" multiple />
         <button type="submit">Upload</button>
       </form>
+
+      <h2>Current inventory</h2>
+
+      
     </main>
   );
 };
