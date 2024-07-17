@@ -1,0 +1,162 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Healer's Earring	2197	1	5
+Head	Black Flower of Functionality	6817	1	5
+Face	Enshrouded Veil	1625	1	5
+Ear	Truewind Earring	14563	1	5
+Neck	Qeynos Badge of Honor	2388	1	5
+Shoulders	Weight of the Gods	2924	1	5
+Arms	Vambraces of Stability	25495	1	5
+Back	Empty	0	0	0
+Wrist	Bracer of Stability	25496	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Range	Othmir Prexus Totem	28514	1	5
+Hands	Gauntlets of Iron Tactics	25039	1	5
+Primary	Water Sprinkler of Nem Ankh	5532	1	5
+Secondary	Orb of the Infinite Void	25098	1	5
+Fingers	Velium Jasper Ring	30315	1	5
+Fingers	Velium Jacinth Wedding Ring	30349	1	5
+Chest	Chestplate of Stability	25494	1	5
+Legs	Greaves of Stability	25498	1	5
+Feet	Golden Efreeti Boots	4407	1	5
+Waist	Empty	0	0	0
+Ammo	Empty	0	0	0
+General1	Hand Made Backpack	17969	1	10
+General1-Slot1	Bracelet of Swirling Smoke	25065	1	5
+General1-Slot2	Spell: Call of Fire	30463	1	5
+General1-Slot3	Peridot	10028	15	5
+General1-Slot4	Peridot	10028	20	5
+General1-Slot5	Peridot	10028	20	5
+General1-Slot6	Peridot	10028	20	5
+General1-Slot7	Peridot	10028	20	5
+General1-Slot8	Peridot	10028	20	5
+General1-Slot9	Tooth of the Cobalt Scar	31602	1	5
+General1-Slot10	Trakanon Idol	1810	1	5
+General2	Bag of Sewn Evil-Eye	17354	1	8
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General3	Shralok Pack	17401	1	8
+General3-Slot1	Worker Sledgemallet	12863	1	5
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General4	Empty	0	0	0
+General5	Hand Made Backpack	17969	1	10
+General5-Slot1	Empty	0	0	0
+General5-Slot2	Empty	0	0	0
+General5-Slot3	Empty	0	0	0
+General5-Slot4	Empty	0	0	0
+General5-Slot5	Empty	0	0	0
+General5-Slot6	Empty	0	0	0
+General5-Slot7	Muffin	13014	19	5
+General5-Slot8	Water Flask	13006	19	5
+General5-Slot9	Bat Wing	13068	20	5
+General5-Slot10	Fish Scales	13076	20	5
+General6	Hand Made Backpack	17969	1	10
+General6-Slot1	Ring of Shadows	10357	1	5
+General6-Slot2	Ring of Shadows	10357	1	5
+General6-Slot3	Ring of Shadows	10357	1	5
+General6-Slot4	Ring of Shadows	10357	1	5
+General6-Slot5	Empty	0	0	0
+General6-Slot6	Empty	0	0	0
+General6-Slot7	Empty	0	0	0
+General6-Slot8	Empty	0	0	0
+General6-Slot9	Empty	0	0	0
+General6-Slot10	Empty	0	0	0
+General7	Large Sewing Kit	17880	1	8
+General7-Slot1	Empty	0	0	0
+General7-Slot2	Spell: Call of Fire	30463	1	5
+General7-Slot3	Empty	0	0	0
+General7-Slot4	Empty	0	0	0
+General7-Slot5	Empty	0	0	0
+General7-Slot6	Empty	0	0	0
+General7-Slot7	Empty	0	0	0
+General7-Slot8	Empty	0	0	0
+General8	Journeyman's Boots	2300	1	5
+Held	Empty	0	0	0
+Bank1	Tome of Endless Enchantments	17500	1	10
+Bank1-Slot1	Ration	13007	20	5
+Bank1-Slot2	Water Flask	13006	20	5
+Bank1-Slot3	Pauldrons of Piety	27717	1	5
+Bank1-Slot4	Hatch Dace	22758	2	5
+Bank1-Slot5	Gnoll Fang	13915	20	5
+Bank1-Slot6	Gnoll Fang	13915	5	5
+Bank1-Slot7	Velium Blue Diamond Bracelet	30299	1	5
+Bank1-Slot8	Empty	0	0	0
+Bank1-Slot9	Corroded Plate Bracer	24932	1	5
+Bank1-Slot10	Corroded Plate Gauntlets	24934	1	5
+Bank2	Tome of Endless Enchantments	17500	1	10
+Bank2-Slot1	Shimmering Pearl	28054	1	5
+Bank2-Slot2	Manna Nectar	20968	1	5
+Bank2-Slot3	High Quality Raiment	20746	1	5
+Bank2-Slot4	Saffron Spiroc Feather	20961	1	5
+Bank2-Slot5	Shimmering Topaz	20818	1	5
+Bank2-Slot6	Glowing Sapphire	20814	1	5
+Bank2-Slot7	Spiroc Statuette	20954	1	5
+Bank2-Slot8	Djinni Aura	20815	1	5
+Bank2-Slot9	Spiroc Healing Totem	20812	1	5
+Bank2-Slot10	Mithril Bands	20819	1	5
+Bank3	Tome of Endless Enchantments	17500	1	10
+Bank3-Slot1	A Red Knight	24556	1	5
+Bank3-Slot2	A Blue Knight	24560	1	5
+Bank3-Slot3	A White Knight	24564	1	5
+Bank3-Slot4	A Black Squire	24553	1	5
+Bank3-Slot5	A Red Squire	24557	1	5
+Bank3-Slot6	A White Squire	24565	1	5
+Bank3-Slot7	Rune of the Astral	11781	1	5
+Bank3-Slot8	Crushed Opal	25836	6	5
+Bank3-Slot9	Crushed Onyx Sapphire	25841	3	5
+Bank3-Slot10	Crushed Flame Emerald	25838	3	5
+Bank4	Tome of Endless Enchantments	17500	1	10
+Bank4-Slot1	Crystal Key	20033	1	5
+Bank4-Slot2	Small rusty key	20036	1	5
+Bank4-Slot3	Three Toothed Key	20034	1	5
+Bank4-Slot4	Bone finger key	20037	1	5
+Bank4-Slot5	Frosty key	20035	1	5
+Bank4-Slot6	Large metal key	20038	1	5
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank4-Slot9	Empty	0	0	0
+Bank4-Slot10	Empty	0	0	0
+Bank5	Tome of Endless Enchantments	17500	1	10
+Bank5-Slot1	Ethereal Mist Vambraces	4883	1	5
+Bank5-Slot2	Ethereal Mist Boots	4887	1	5
+Bank5-Slot3	Greaves of the Penitent	4924	1	5
+Bank5-Slot4	Golden Efreeti Turban	4341	1	5
+Bank5-Slot5	Aegis of the Wind	27716	1	5
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank5-Slot9	Words of Wealth	18008	1	5
+Bank5-Slot10	Words of Wealth	18008	1	5
+Bank6	Empty	0	0	0
+Bank7	Deck of Spontaneous Generation	17054	1	4
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank8	Book of Mischief	17325	1	4
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

@@ -1,0 +1,104 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Polished Bone Hoop	10321	1	5
+Head	Loam Encrusted Cap	1641	1	5
+Face	Cloth Veil	1002	1	5
+Ear	Polished Bone Hoop	10321	1	5
+Neck	Black Alloy Medallion	3615	1	5
+Shoulders	Cloth Shawl	1005	1	5
+Arms	Small Cloth Sleeves	1020	1	5
+Back	Cloth Cape	1006	1	5
+Wrist	Cloth Wristband	1009	1	5
+Wrist	Loam Encrusted Bracelet	1649	1	5
+Range	Kromzek Surveyor Scope	30221	1	5
+Hands	Loam Encrusted Gloves	1650	1	5
+Primary	Staff of Writhing	6404	1	5
+Secondary	Wand of Conflagration	12500	1	5
+Fingers	Obsidian Ring	10337	1	5
+Fingers	Obsidian Ring	10337	1	5
+Chest	Flowing Black Robe	1320	1	5
+Legs	Cloth Pants	1011	1	5
+Feet	Loam Encrusted Lined Shoes	1652	1	5
+Waist	Small Cloth Cord	1019	1	5
+Ammo	Empty	0	0	0
+General1	Backpack	17005	1	8
+General1-Slot1	Water Flask	13006	18	5
+General1-Slot2	Ration	13007	18	5
+General1-Slot3	Water Flask	13006	20	5
+General1-Slot4	Ration	13007	20	5
+General1-Slot5	Bone Chips	13073	20	5
+General1-Slot6	Bone Chips	13073	20	5
+General1-Slot7	Jasper	10020	20	5
+General1-Slot8	Bone Chips	13073	4	5
+General2	Backpack	17005	1	8
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General3	Backpack	17005	1	8
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General4	Empty Bag	17943	1	6
+General4-Slot1	Snake Scales	13070	8	5
+General4-Slot2	Empty	0	0	0
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
+General4-Slot5	Empty	0	0	0
+General4-Slot6	Empty	0	0	0
+General5	Dark Shield of Ebon	12258	1	5
+General6	Empty	0	0	0
+General7	Empty	0	0	0
+General8	Greater Lightstone	10400	1	5
+Held	Empty	0	0	0
+Bank1	Ruined Red Robe*	13582	1	5
+Bank2	Deluxe Toolbox	17877	1	10
+Bank2-Slot1	Words of the Ethereal	11869	1	5
+Bank2-Slot2	Words of Possession	11815	1	5
+Bank2-Slot3	Spell: Dementia	19384	1	5
+Bank2-Slot4	Griffon Feathers	16538	1	5
+Bank2-Slot5	Tears of Prexus	11806	1	5
+Bank2-Slot6	Breath of Ro	11808	2	5
+Bank2-Slot7	Swirling Mist	22523	1	5
+Bank2-Slot8	Ethereal Opal	20743	1	5
+Bank2-Slot9	Adamantite Bo Stick	6656	1	5
+Bank2-Slot10	Greater Lightstone	10400	1	5
+Bank3	Deluxe Toolbox	17877	1	10
+Bank3-Slot1	Words of Wealth	18008	1	5
+Bank3-Slot2	Words of Wealth	18008	1	5
+Bank3-Slot3	Words of Wealth	18008	1	5
+Bank3-Slot4	Words of Wealth	18008	1	5
+Bank3-Slot5	Words of Wealth	18008	1	5
+Bank3-Slot6	Words of Bondage	11807	1	5
+Bank3-Slot7	Glowing Stone Band	10341	1	5
+Bank3-Slot8	Band of Flesh	10352	1	5
+Bank3-Slot9	Crystal Chitin Gauntlets	25290	1	5
+Bank3-Slot10	Charred Gauntlets	4306	1	5
+Bank4	Small Bag	17003	1	4
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	A Torch	16546	1	5
+Bank4-Slot3	A Stein	16547	1	5
+Bank4-Slot4	A Broom	16544	1	5
+Bank5	Dagger*	9997	1	5
+Bank6	Spider Fur Gloves	25311	1	5
+Bank7	Nathsar Greatsword	5629	1	5
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

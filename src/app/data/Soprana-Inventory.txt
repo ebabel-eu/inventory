@@ -1,0 +1,110 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Opalline Earring	10407	1	5
+Head	Vale Reinforced Skullcap	1989	1	5
+Face	Sarnak-Hide Mask	2734	1	5
+Ear	Golden Sapphire Earring	14690	1	5
+Neck	Cold Iron Collar	1510	1	5
+Shoulders	Vale Reinforced Mantle	1993	1	5
+Arms	Vale Reinforced Sleeves	1996	1	5
+Back	Vale Reinforced Cloak	1994	1	5
+Wrist	Tar goo strands	1703	1	5
+Wrist	Vale Reinforced Wristbands	1997	1	5
+Range	Kromzek Surveyor Scope	30221	1	5
+Hands	Vale Reinforced Gloves	1998	1	5
+Primary	Empty	0	0	0
+Secondary	Hand Drum	13000	1	5
+Fingers	Silver Amber Ring	14640	1	5
+Fingers	Silver Amber Ring	14640	1	5
+Chest	Lambent Breastplate	4154	1	5
+Legs	Vale Reinforced Leggings	1999	1	5
+Feet	Singing Steel Boots	1733	1	5
+Waist	Sludged Girdle	4312	1	5
+Ammo	Empty	0	0	0
+General1	Hand Made Backpack	17969	1	10
+General1-Slot1	Water Flask	13006	11	5
+General1-Slot2	Berries	13045	10	5
+General1-Slot3	Bandages	13009	20	5
+General1-Slot4	Bandages	13009	20	5
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
+General1-Slot9	Empty	0	0	0
+General1-Slot10	Empty	0	0	0
+General2	Hand Made Backpack	17969	1	10
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General2-Slot9	Empty	0	0	0
+General2-Slot10	Empty	0	0	0
+General3	Backpack	17005	1	8
+General3-Slot1	Conch Shell Horn	28513	1	5
+General3-Slot2	Wooden Flute	13001	1	5
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Lute of the Gypsy Princess	10176	1	5
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Horn	13012	1	5
+General3-Slot8	Larrikan's Mask	2736	1	5
+General4	Sionachie's Partisan	7210	1	5
+General5	Empty	0	0	0
+General6	Empty	0	0	0
+General7	Empty	0	0	0
+General8	Idol of Woven Grass	28075	1	5
+Held	Empty	0	0	0
+Bank1	Backpack	17005	1	8
+Bank1-Slot1	Short Sword*	9998	1	5
+Bank1-Slot2	Faded Brown Tunic*	13534	1	5
+Bank1-Slot3	Vale Reinforced Mask	1990	1	5
+Bank1-Slot4	Colorfully Patched Tunic*	13571	1	5
+Bank1-Slot5	Vale Reinforced Boots	2000	1	5
+Bank1-Slot6	Vale Reinforced Belt	1995	1	5
+Bank1-Slot7	Vale Reinforced Gorget	1991	1	5
+Bank1-Slot8	Vale Reinforced Wristbands	1997	1	5
+Bank2	Backpack	17005	1	8
+Bank2-Slot1	Paineel Steel Breastplate	4384	1	5
+Bank2-Slot2	Elemental Binder	28043	1	5
+Bank2-Slot3	Firerune Brand	5621	1	5
+Bank2-Slot4	Earthen Blade	5531	1	5
+Bank2-Slot5	Nathsar Greatsword	5629	1	5
+Bank2-Slot6	Nature's Wrath	6644	1	5
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank3	Backpack	17005	1	8
+Bank3-Slot1	Festering Cloak	1343	1	5
+Bank3-Slot2	Festering Cloak	1343	1	5
+Bank3-Slot3	Viik's Dark Defender	7218	1	5
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Treant Staff	6300	1	5
+Bank3-Slot8	Lost Staff of the Scorned	6680	1	5
+Bank4	Backpack	17005	1	8
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	Screaming Mace	6305	1	5
+Bank4-Slot3	Potion of Light Healing	14007	1	5
+Bank4-Slot4	Elder Spiritist's Vambraces	4573	1	5
+Bank4-Slot5	Spiderling Silk	13099	4	5
+Bank4-Slot6	Evergreen Leaf	22119	7	5
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Ration	13007	10	5
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

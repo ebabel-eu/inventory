@@ -1,0 +1,90 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Empty	0	0	0
+Face	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Empty	0	0	0
+Shoulders	Empty	0	0	0
+Arms	Cloth Sleeves	1008	1	5
+Back	Empty	0	0	0
+Wrist	Cloth Wristband	1009	1	5
+Wrist	Cloth Wristband	1009	1	5
+Range	Empty	0	0	0
+Hands	Cloth Gloves	1010	1	5
+Primary	Empty	0	0	0
+Secondary	Blackened Sapphire	13238	1	5
+Fingers	Empty	0	0	0
+Fingers	Empty	0	0	0
+Chest	Thaumaturgist's Robe	1322	1	5
+Legs	Empty	0	0	0
+Feet	Empty	0	0	0
+Waist	Empty	0	0	0
+Ammo	Empty	0	0	0
+General1	Backpack	17005	1	8
+General1-Slot1	Water Flask	13006	17	5
+General1-Slot2	Ration	13007	17	5
+General1-Slot3	Malachite	10015	18	5
+General1-Slot4	High Quality Wolf Skin	13755	1	5
+General1-Slot5	Giant Warrior Helmet	29062	1	5
+General1-Slot6	A Blue Knight	24560	1	5
+General1-Slot7	A Library Card	9510	1	5
+General1-Slot8	A White Crown	24563	1	5
+General2	Backpack	17005	1	8
+General2-Slot1	A Blue Squire	24561	1	5
+General2-Slot2	A White Squire	24565	1	5
+General2-Slot3	A Red Squire	24557	1	5
+General2-Slot4	A Black Squire	24553	1	5
+General2-Slot5	Ceremonial Wedding Sword	29211	1	5
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General3	Backpack	17005	1	8
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Cloth Choker	1003	1	5
+General3-Slot7	Cloth Cord	1007	1	5
+General3-Slot8	Cloth Veil	1002	1	5
+General4	Empty	0	0	0
+General5	Empty	0	0	0
+General6	Empty	0	0	0
+General7	Empty	0	0	0
+General8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack	17005	1	8
+Bank1-Slot1	Dagger*	9997	1	5
+Bank1-Slot2	A Worn Candle	9979	1	5
+Bank1-Slot3	Fresh Fish	13019	6	5
+Bank1-Slot4	Used Violet Robe*	13559	1	5
+Bank1-Slot5	Fresh Fish	13019	20	5
+Bank1-Slot6	Bone Chips	13073	2	5
+Bank1-Slot7	Water Flask	13006	20	5
+Bank1-Slot8	Ration	13007	20	5
+Bank2	Backpack	17005	1	8
+Bank2-Slot1	Empty	0	0	0
+Bank2-Slot2	Empty	0	0	0
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

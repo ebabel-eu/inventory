@@ -1,0 +1,148 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Jasper Gold Earring	14630	1	5
+Head	Lumberjack's Cap	11542	1	5
+Face	Laced Veil	29212	1	5
+Ear	Jasper Gold Earring	14630	1	5
+Neck	Initiate Symbol of Cazic Thule	1437	1	5
+Shoulders	Prayer Cloth of Tunare	1900	1	5
+Arms	Ringmail Sleeves	3108	1	5
+Back	Burynai Hide Cloak	2729	1	5
+Wrist	Runed Mithril Bracer	4406	1	5
+Wrist	Bracer of the Forlorn	1524	1	5
+Range	Empty	0	0	0
+Hands	Iksar Scaled Gloves	11980	1	5
+Primary	Springwood Club	6616	1	5
+Secondary	Charred Guardian Shield	9311	1	5
+Fingers	Platinum Fire Wedding Ring	14679	1	5
+Fingers	Platinum Fire Wedding Ring	14679	1	5
+Chest	Cold Iron Breastplate	1511	1	5
+Legs	Sebilite Scale Leggings	3210	1	5
+Feet	Crustacean Shell Boots	28506	1	5
+Waist	Ringmail Skirt	3107	1	5
+Ammo	Empty	0	0	0
+General1	Tax Collection Box	17012	1	10
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Empty	0	0	0
+General1-Slot3	Muffin	13014	20	5
+General1-Slot4	Water Flask	13006	20	5
+General1-Slot5	Potion of Invisibility	14206	1	5
+General1-Slot6	Cloth Wristband	1009	1	5
+General1-Slot7	Bone Chips	13073	17	5
+General1-Slot8	Cloth Cord	1007	1	5
+General1-Slot9	Bone Chips	13073	20	5
+General1-Slot10	Cloth Veil	1002	1	5
+General2	Medicine Bag	17901	1	8
+General2-Slot1	Bronze Mace	6019	1	5
+General2-Slot2	Cloth Shirt	1004	1	5
+General2-Slot3	Bronze Long Sword	5027	1	5
+General2-Slot4	Bronze Long Sword	5027	1	5
+General2-Slot5	Darkbone Marrow	16979	1	5
+General2-Slot6	Parrying Dagger	9008	1	5
+General2-Slot7	Whore's Bane	16994	1	5
+General2-Slot8	Bronze Mace	6019	1	5
+General3	Medicine Bag	17901	1	8
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General4	Medicine Bag	17901	1	8
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Empty	0	0	0
+General4-Slot3	Empty	0	0	0
+General4-Slot4	Empty	0	0	0
+General4-Slot5	Empty	0	0	0
+General4-Slot6	Empty	0	0	0
+General4-Slot7	Empty	0	0	0
+General4-Slot8	Empty	0	0	0
+General5	Guard's Keyring	20443	1	5
+General6	Empty	0	0	0
+General7	Empty	0	0	0
+General8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack	17005	1	8
+Bank1-Slot1	Runed Bokken	6914	1	5
+Bank1-Slot2	A Worn Candle	9979	1	5
+Bank1-Slot3	Crown of Leaves	2321	1	5
+Bank1-Slot4	Idol of Woven Grass	28075	1	5
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Backpack	17005	1	8
+Bank2-Slot1	Snake Fang	13067	6	5
+Bank2-Slot2	Snake Scales	13070	5	5
+Bank2-Slot3	Warhammer of Divine Grace	11611	1	5
+Bank2-Slot4	Smoldering Brand	6692	1	5
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Prayer Cloth of Tunare	1900	1	5
+Bank2-Slot7	Bronze Shackle Key	6923	1	5
+Bank2-Slot8	Bronze Shackle Key	6923	1	5
+Bank3	Backpack	17005	1	8
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank4	Backpack	17005	1	8
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Empty	0	0	0
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Empty	0	0	0
+Bank4-Slot7	Empty	0	0	0
+Bank4-Slot8	Empty	0	0	0
+Bank5	Backpack	17005	1	8
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	Empty	0	0	0
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank6	Backpack	17005	1	8
+Bank6-Slot1	Empty	0	0	0
+Bank6-Slot2	Empty	0	0	0
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	Empty	0	0	0
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank7	Backpack	17005	1	8
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank8	Backpack	17005	1	8
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Deathfist Shoulderpads	2807	1	5
+Bank8-Slot8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

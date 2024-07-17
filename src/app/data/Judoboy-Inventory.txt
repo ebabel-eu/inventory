@@ -1,0 +1,108 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Wu's Fighting Cap	25716	1	5
+Face	Wu's Fighting Mask	25717	1	5
+Ear	Empty	0	0	0
+Neck	Wu's Fighting Collar	25718	1	5
+Shoulders	Wu's Fighting Mantle	25720	1	5
+Arms	Wu's Fighting Sleeves	25723	1	5
+Back	Wu's Fighting Cloak	25721	1	5
+Wrist	Wu's Fighting Wristbands	25724	1	5
+Wrist	Wu's Fighting Wristbands	25724	1	5
+Range	Empty	0	0	0
+Hands	Wu's Fighting Gauntlets	1192	1	5
+Primary	Ykeshan War Club	6621	1	5
+Secondary	Wraith Bone Hammer	6382	1	5
+Fingers	Clawed Knuckle-Ring	10403	1	5
+Fingers	Obsidian Ring	10337	1	5
+Chest	Wu's Fighting Shirt	25719	1	5
+Legs	Wu's Fighting Pantaloons	25725	1	5
+Feet	Wu's Fighting Slippers	25726	1	5
+Waist	Red Sash of Order	10133	1	5
+Ammo	Empty	0	0	0
+General1	Ration	13007	18	5
+General2	Empty	0	0	0
+General3	Empty	0	0	0
+General4	Empty	0	0	0
+General5	Water Flask	13006	18	5
+General6	Bandages	13009	19	5
+General7	Empty	0	0	0
+General8	Greater Lightstone	10400	1	5
+Held	Empty	0	0	0
+Bank1	Backpack	17005	1	8
+Bank1-Slot1	Wu's Fighting Sash	25722	1	5
+Bank1-Slot2	Deathfist Slashed Belt	13916	1	5
+Bank1-Slot3	Skull of Jhen`Tra	13168	1	5
+Bank1-Slot4	Torch	13002	1	5
+Bank1-Slot5	Dagger of Marnek	13169	1	5
+Bank1-Slot6	A Worn Candle	9979	1	5
+Bank1-Slot7	Splintered Wooden Key	20361	1	5
+Bank1-Slot8	Charred Bone Key	20362	1	5
+Bank2	Belt Pouch	17002	1	4
+Bank2-Slot1	Evergreen Leaf	22119	2	5
+Bank2-Slot2	Snake Scales	13070	5	5
+Bank2-Slot3	Bone Chips	13073	2	5
+Bank2-Slot4	Empty	0	0	0
+Bank3	Backpack	17005	1	8
+Bank3-Slot1	Wulf Fish	14978	1	5
+Bank3-Slot2	Cauldron Trout	22756	6	5
+Bank3-Slot3	Dragon Bay Snapper	22770	5	5
+Bank3-Slot4	Kunzar Koi	14973	1	5
+Bank3-Slot5	Stonefish	22757	1	5
+Bank3-Slot6	Boar Carp	22754	7	5
+Bank3-Slot7	Cobalt Cod	22766	5	5
+Bank3-Slot8	Hatch Dace	22758	2	5
+Bank4	Large Bag	17004	1	6
+Bank4-Slot1	Empty	0	0	0
+Bank4-Slot2	Empty	0	0	0
+Bank4-Slot3	Empty	0	0	0
+Bank4-Slot4	Empty	0	0	0
+Bank4-Slot5	Empty	0	0	0
+Bank4-Slot6	Empty	0	0	0
+Bank5	Backpack	17005	1	8
+Bank5-Slot1	Crushbone Belt	13318	1	5
+Bank5-Slot2	Baton of Faith	6640	1	5
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank6	Backpack	17005	1	8
+Bank6-Slot1	Empty	0	0	0
+Bank6-Slot2	Empty	0	0	0
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Empty	0	0	0
+Bank6-Slot5	Empty	0	0	0
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank7	Backpack	17005	1	8
+Bank7-Slot1	Empty	0	0	0
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Empty	0	0	0
+Bank7-Slot5	Empty	0	0	0
+Bank7-Slot6	Empty	0	0	0
+Bank7-Slot7	Empty	0	0	0
+Bank7-Slot8	Empty	0	0	0
+Bank8	Backpack	17005	1	8
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Empty	0	0	0
+Bank8-Slot5	Empty	0	0	0
+Bank8-Slot6	Empty	0	0	0
+Bank8-Slot7	Empty	0	0	0
+Bank8-Slot8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

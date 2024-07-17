@@ -1,0 +1,98 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Empty	0	0	0
+Face	Empty	0	0	0
+Ear	Empty	0	0	0
+Neck	Empty	0	0	0
+Shoulders	Loam Encrusted Amice	1645	1	5
+Arms	Empty	0	0	0
+Back	Loam Encrusted Cloak	1646	1	5
+Wrist	Empty	0	0	0
+Wrist	Ivory Bracelet	10408	1	5
+Range	Empty	0	0	0
+Hands	Empty	0	0	0
+Primary	A Broom	16544	1	5
+Secondary	Empty	0	0	0
+Fingers	Empty	0	0	0
+Fingers	Empty	0	0	0
+Chest	Flowing Black Robe	1320	1	5
+Legs	Loam Encrusted Pantaloons	1651	1	5
+Feet	Loam Encrusted Lined Shoes	1652	1	5
+Waist	Loam Encrusted Sash	1647	1	5
+Ammo	Empty	0	0	0
+General1	Backpack	17005	1	8
+General1-Slot1	Empty	0	0	0
+General1-Slot2	Empty	0	0	0
+General1-Slot3	Water Flask	13006	19	5
+General1-Slot4	Ration	13007	19	5
+General1-Slot5	Empty	0	0	0
+General1-Slot6	Empty	0	0	0
+General1-Slot7	Empty	0	0	0
+General1-Slot8	Empty	0	0	0
+General2	Backpack	17005	1	8
+General2-Slot1	Empty	0	0	0
+General2-Slot2	Empty	0	0	0
+General2-Slot3	Empty	0	0	0
+General2-Slot4	Empty	0	0	0
+General2-Slot5	Empty	0	0	0
+General2-Slot6	Empty	0	0	0
+General2-Slot7	Empty	0	0	0
+General2-Slot8	Empty	0	0	0
+General3	Backpack	17005	1	8
+General3-Slot1	Empty	0	0	0
+General3-Slot2	Empty	0	0	0
+General3-Slot3	Empty	0	0	0
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Empty	0	0	0
+General3-Slot6	Empty	0	0	0
+General3-Slot7	Empty	0	0	0
+General3-Slot8	Empty	0	0	0
+General4	Backpack	17005	1	8
+General4-Slot1	Empty	0	0	0
+General4-Slot2	Blackburrow Gnoll Skin	13028	1	5
+General4-Slot3	Oak Bark	16490	2	5
+General4-Slot4	Blackburrow Gnoll Skin	13028	1	5
+General4-Slot5	Evergreen Leaf	22119	1	5
+General4-Slot6	Blackburrow Gnoll Skin	13028	1	5
+General4-Slot7	Splintered Wooden Key	20361	1	5
+General4-Slot8	Small Scarab Breastplate	2487	1	5
+General5	Malachite	10015	12	5
+General6	Malachite	10015	20	5
+General7	Empty	0	0	0
+General8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Backpack	17005	1	8
+Bank1-Slot1	Dagger*	9997	1	5
+Bank1-Slot2	A Worn Candle	9979	1	5
+Bank1-Slot3	Used Violet Robe*	13559	1	5
+Bank1-Slot4	Fresh Fish	13019	20	5
+Bank1-Slot5	Hatch Dace	22758	9	5
+Bank1-Slot6	Fresh Fish	13019	2	5
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Empty	0	0	0
+Bank3	Medicine Bag	17901	1	8
+Bank3-Slot1	Empty	0	0	0
+Bank3-Slot2	Empty	0	0	0
+Bank3-Slot3	Empty	0	0	0
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Empty	0	0	0
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Empty	0	0	0
+Bank3-Slot8	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Empty	0	0	0
+Bank6	Empty	0	0	0
+Bank7	Empty	0	0	0
+Bank8	Empty	0	0	0
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

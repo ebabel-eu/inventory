@@ -1,0 +1,146 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Empty	0	0	0
+Head	Cloth Cap	1001	1	5
+Face	Laced Veil	29212	1	5
+Ear	Empty	0	0	0
+Neck	The Skull of Torture	59526	1	5
+Shoulders	Cloth Shawl	1005	1	5
+Arms	Cloth Sleeves	1008	1	5
+Back	Cloth Cape	1006	1	5
+Wrist	Golden Jaded Bracelet	14650	1	5
+Wrist	Cloth Wristband	1009	1	5
+Range	Empty	0	0	0
+Hands	Elf-hide Gloves	2465	1	5
+Primary	Short Sword*	9998	1	5
+Secondary	Greater Lightstone	10400	1	5
+Fingers	Empty	0	0	0
+Fingers	Empty	0	0	0
+Chest	Cloth Shirt	1004	1	5
+Legs	Cloth Pants	1011	1	5
+Feet	Raw-hide Boots	2148	1	5
+Waist	Cloth Cord	1007	1	5
+Ammo	Empty	0	0	0
+General1	Medicine Bag	17901	1	8
+General1-Slot1	Rune of Nagafen	16054	10	5
+General1-Slot2	Rune of Proximity	11742	4	5
+General1-Slot3	Rune of Fulguration	11741	6	5
+General1-Slot4	Rune of Periphery	11740	7	5
+General1-Slot5	Rune of Al'Kabor	11746	16	5
+General1-Slot6	Rune of Velious	11745	4	5
+General1-Slot7	Rune of Disassociation	11750	2	5
+General1-Slot8	Rune of Presence	11749	13	5
+General2	Medicine Bag	17901	1	8
+General2-Slot1	Rune of Karana	11753	1	5
+General2-Slot2	Rune of the Helix	11758	1	5
+General2-Slot3	Rune of the Helix	11758	4	5
+General2-Slot4	Rune of Solusek Ro	11766	5	5
+General2-Slot5	Rune of Contortion	11769	4	5
+General2-Slot6	Rune of Howling	11768	4	5
+General2-Slot7	Rune of the Astral	11781	8	5
+General2-Slot8	Rune of Frost	11780	3	5
+General3	Medicine Bag	17901	1	8
+General3-Slot1	Rune of Rathe	11776	7	5
+General3-Slot2	Rune of Infraction	11775	4	5
+General3-Slot3	Rune of Ap`Sagor	11779	3	5
+General3-Slot4	Rune of Tyranny	11771	7	5
+General3-Slot5	Rune of Rallos Zek	11757	3	5
+General3-Slot6	Rune of the Catalyst	11765	2	5
+General3-Slot7	Rune of Concussion	11763	12	5
+General3-Slot8	Rune of Banding	11764	5	5
+General4	Medicine Bag	17901	1	8
+General4-Slot1	Rune of Crippling	11783	1	5
+General4-Slot2	Rune of Attraction	11748	6	5
+General4-Slot3	Rune of the Inverse	11778	3	5
+General4-Slot4	Rune of Conception	11774	9	5
+General4-Slot5	Rune of Attraction	11777	1	5
+General4-Slot6	Rune of Banding	11764	4	5
+General4-Slot7	Rune of the Cyclone	11767	1	5
+General4-Slot8	Rune of Xegony	11752	1	5
+General5	Medicine Bag	17901	1	8
+General5-Slot1	Ration	13007	18	5
+General5-Slot2	Water Flask	13006	18	5
+General5-Slot3	Snake Fang	13067	19	5
+General5-Slot4	Snake Scales	13070	20	5
+General5-Slot5	Bone Chips	13073	20	5
+General5-Slot6	Elemental Binder	28043	1	5
+General5-Slot7	Bone Chips	13073	20	5
+General5-Slot8	Bone Chips	13073	20	5
+General6	Medicine Bag	17901	1	8
+General6-Slot1	Sheer Bone Mask	10101	1	5
+General6-Slot2	Student's Homework	29116	1	5
+General6-Slot3	Circlet of Shadows	29400	1	5
+General6-Slot4	Bear Skins of Rage	25072	1	5
+General6-Slot5	A Shovel	16545	1	5
+General6-Slot6	A Torch	16546	1	5
+General6-Slot7	A Crude Stein	13355	1	5
+General6-Slot8	A Broom	16544	1	5
+General7	Hand Drum	13000	1	5
+General8	Empty	0	0	0
+Held	Empty	0	0	0
+Bank1	Medicine Bag	17901	1	8
+Bank1-Slot1	Empty	0	0	0
+Bank1-Slot2	Empty	0	0	0
+Bank1-Slot3	Empty	0	0	0
+Bank1-Slot4	Empty	0	0	0
+Bank1-Slot5	Empty	0	0	0
+Bank1-Slot6	Empty	0	0	0
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Empty	0	0	0
+Bank2	Medicine Bag	17901	1	8
+Bank2-Slot1	Empty	0	0	0
+Bank2-Slot2	Empty	0	0	0
+Bank2-Slot3	Empty	0	0	0
+Bank2-Slot4	Empty	0	0	0
+Bank2-Slot5	Empty	0	0	0
+Bank2-Slot6	Empty	0	0	0
+Bank2-Slot7	Empty	0	0	0
+Bank2-Slot8	Empty	0	0	0
+Bank3	Empty	0	0	0
+Bank4	Empty	0	0	0
+Bank5	Medicine Bag	17901	1	8
+Bank5-Slot1	Empty	0	0	0
+Bank5-Slot2	A Worn Candle	9979	1	5
+Bank5-Slot3	Empty	0	0	0
+Bank5-Slot4	Empty	0	0	0
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Empty	0	0	0
+Bank5-Slot8	Empty	0	0	0
+Bank6	Medicine Bag	17901	1	8
+Bank6-Slot1	Frost Giant Meat	22800	20	5
+Bank6-Slot2	Wyvern Meat	22808	18	5
+Bank6-Slot3	Empty	0	0	0
+Bank6-Slot4	Jaggedpine Crook	13230	1	5
+Bank6-Slot5	Empty	0	0	0
+Bank6-Slot6	Empty	0	0	0
+Bank6-Slot7	Empty	0	0	0
+Bank6-Slot8	Empty	0	0	0
+Bank7	Medicine Bag	17901	1	8
+Bank7-Slot1	Spell: Vocarate: Water	19362	1	5
+Bank7-Slot2	Spell: Bristlebane`s Bundle	19351	1	5
+Bank7-Slot3	Spell: Death Pact	19203	1	5
+Bank7-Slot4	Spell: Wandering Mind	30407	1	5
+Bank7-Slot5	Spell: Chilling Embrace	30412	1	5
+Bank7-Slot6	Spell: Mesmerization	16217	1	5
+Bank7-Slot7	Spell: Summon Shard of the Core	30401	1	5
+Bank7-Slot8	Ceremonial Wedding Sword	29211	1	5
+Bank8	Medicine Bag	17901	1	8
+Bank8-Slot1	Empty	0	0	0
+Bank8-Slot2	Empty	0	0	0
+Bank8-Slot3	Empty	0	0	0
+Bank8-Slot4	Part of Tasarin's Grimoire Pg. 23	16068	2	5
+Bank8-Slot5	Words of Spirit	11814	2	5
+Bank8-Slot6	Words of Materials	11813	1	5
+Bank8-Slot7	Part of Tasarin's Grimoire Pg. 26	16072	2	5
+Bank8-Slot8	Words of the Element	11786	1	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0

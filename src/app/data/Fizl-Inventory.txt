@@ -1,0 +1,164 @@
+Location	Name	ID	Count	Slots
+Charm	Empty	0	0	0
+Ear	Black Sapphire Electrum Earring	14701	1	5
+Head	Rebreather	16889	1	5
+Face	Crystal Spider Eyes	25282	1	5
+Ear	Black Sapphire Electrum Earring	14701	1	5
+Neck	Qeynos Badge of Honor	2388	1	5
+Shoulders	Drake-Hide Amice	2708	1	5
+Arms	Prestidigitator's Sleeves	31170	1	5
+Back	Bracelet of Clarification	1274	1	5
+Wrist	Bracelet of Exertion	12805	1	5
+Wrist	Velium Blue Diamond Bracelet	30299	1	5
+Range	Iksar Hide Manual	5763	1	5
+Hands	Arch Mage's Gloves	31074	1	5
+Primary	Staff of Elemental Mastery: Air	11568	1	5
+Secondary	Empty	0	0	0
+Fingers	Duennan Shielding Ring	11687	1	5
+Fingers	Diamond Wedding Band	29210	1	5
+Chest	Apothic Robe	1240	1	5
+Legs	Loam Encrusted Pantaloons	1651	1	5
+Feet	Prestidigitator's Boots	31174	1	5
+Waist	Loam Encrusted Sash	1647	1	5
+Ammo	Empty	0	0	0
+General1	Glowing Backpack	17306	1	10
+General1-Slot1	Summoned: Muzzle of Mardu	1348	1	5
+General1-Slot2	Summoned: Muzzle of Mardu	1348	1	5
+General1-Slot3	Summoned: Muzzle of Mardu	1348	1	5
+General1-Slot4	Summoned: Muzzle of Mardu	1348	1	5
+General1-Slot5	Summoned: Shard of the Core	30275	1	5
+General1-Slot6	Summoned: Shard of the Core	30275	1	5
+General1-Slot7	Summoned: Sword of Runes	5319	1	5
+General1-Slot8	Summoned: Sword of Runes	5319	1	5
+General1-Slot9	Summoned: Sword of Runes	5319	1	5
+General1-Slot10	Summoned: Sword of Runes	5319	1	5
+General2	Clay Bracelet	2359	1	5
+General3	Small Box	17006	1	8
+General3-Slot1	Vial of Velium Vapors	1553	1	5
+General3-Slot2	Leatherfoot Raider Skullcap	12259	1	5
+General3-Slot3	Green Flower of Functionality	6816	1	5
+General3-Slot4	Empty	0	0	0
+General3-Slot5	Black Flower of Functionality	6817	1	5
+General3-Slot6	Trakanon Idol	1810	1	5
+General3-Slot7	Shrine Key	28602	1	5
+General3-Slot8	Tooth of the Cobalt Scar	31602	1	5
+General4	Light Burlap Sack	17353	1	8
+General4-Slot1	Malachite	10015	16	5
+General4-Slot2	Malachite	10015	20	5
+General4-Slot3	Malachite	10015	20	5
+General4-Slot4	Malachite	10015	20	5
+General4-Slot5	Malachite	10015	20	5
+General4-Slot6	Malachite	10015	20	5
+General4-Slot7	Malachite	10015	20	5
+General4-Slot8	Cat's Eye Agate	10026	12	5
+General5	Journeyman's Boots	2300	1	5
+General6	Hand Made Backpack	17969	1	10
+General6-Slot1	Pearl	10024	1	5
+General6-Slot2	Pearl	10024	20	5
+General6-Slot3	Pearl	10024	20	5
+General6-Slot4	Pearl	10024	20	5
+General6-Slot5	Pearl	10024	20	5
+General6-Slot6	Pearl	10024	20	5
+General6-Slot7	Pearl	10024	20	5
+General6-Slot8	Pearl	10024	20	5
+General6-Slot9	Pearl	10024	20	5
+General6-Slot10	Pearl	10024	20	5
+General7	Hand Made Backpack	17969	1	10
+General7-Slot1	Pearl	10024	20	5
+General7-Slot2	Pearl	10024	20	5
+General7-Slot3	Pearl	10024	20	5
+General7-Slot4	Pearl	10024	20	5
+General7-Slot5	Empty	0	0	0
+General7-Slot6	Empty	0	0	0
+General7-Slot7	Summoned: Black Bread	13078	20	5
+General7-Slot8	Summoned: Globe of Water	13079	20	5
+General7-Slot9	Muffin	13014	19	5
+General7-Slot10	Water Flask	13006	19	5
+General8	Shralok Pack	17401	1	8
+General8-Slot1	Summoned: Waterstone	10342	1	5
+General8-Slot2	Summoned: Waterstone	10342	1	5
+General8-Slot3	Empty	0	0	0
+General8-Slot4	Empty	0	0	0
+General8-Slot5	Empty	0	0	0
+General8-Slot6	Empty	0	0	0
+General8-Slot7	Prestidigitator's Headband	31168	1	5
+General8-Slot8	Worker Sledgemallet	12863	1	5
+Held	Empty	0	0	0
+Bank1	Deluxe Toolbox	17877	1	10
+Bank1-Slot1	Velium Blue Diamond Bracelet	30299	1	5
+Bank1-Slot2	Gold White Pendant	14557	1	5
+Bank1-Slot3	Mask of Empowerment	2707	1	5
+Bank1-Slot4	Nephrite	25816	2	5
+Bank1-Slot5	Cloth Coldain Prayer Shawl	1176	1	5
+Bank1-Slot6	Thunder Runed Dagger	31210	1	5
+Bank1-Slot7	Empty	0	0	0
+Bank1-Slot8	Orb of the Infinite Void	25098	1	5
+Bank1-Slot9	Earthen Boots	2357	1	5
+Bank1-Slot10	Empty	0	0	0
+Bank2	Deluxe Toolbox	17877	1	10
+Bank2-Slot1	Thin Boned Wand	14509	1	5
+Bank2-Slot2	Thin Boned Wand	14509	1	5
+Bank2-Slot3	10 Dose Potion of Stinging Wort	14468	1	5
+Bank2-Slot4	10 Dose Potion of Stinging Wort	14468	1	5
+Bank2-Slot5	10 Dose Greater Null Potion	14527	1	5
+Bank2-Slot6	Forlorn Totem of Rolfron Zek	2569	1	5
+Bank2-Slot7	Ring of Shadows	10357	1	5
+Bank2-Slot8	Ring of Shadows	10357	1	5
+Bank2-Slot9	Wand of Lava	12503	1	5
+Bank2-Slot10	Wand of Swords	12502	1	5
+Bank3	Deluxe Toolbox	17877	1	10
+Bank3-Slot1	Crystal Key	20033	1	5
+Bank3-Slot2	Large metal key	20038	1	5
+Bank3-Slot3	Three Toothed Key	20034	1	5
+Bank3-Slot4	Empty	0	0	0
+Bank3-Slot5	Frosty key	20035	1	5
+Bank3-Slot6	Empty	0	0	0
+Bank3-Slot7	Small rusty key	20036	1	5
+Bank3-Slot8	Empty	0	0	0
+Bank3-Slot9	Bone finger key	20037	1	5
+Bank3-Slot10	Bladesman's Axe	25074	1	5
+Bank4	Deluxe Toolbox	17877	1	10
+Bank4-Slot1	Element of Fire	28009	1	5
+Bank4-Slot2	Element of Wind	28033	1	5
+Bank4-Slot3	Tears of Erollisi	28040	1	5
+Bank4-Slot4	Dirt of Underfoot	28042	1	5
+Bank4-Slot5	Rain of Karana	28041	1	5
+Bank4-Slot6	Staff of the Magister	11650	1	5
+Bank4-Slot7	Shovel of Ponz	6361	1	5
+Bank4-Slot8	Stein of Ulissa	6363	1	5
+Bank4-Slot9	Torch of Alna	6362	1	5
+Bank4-Slot10	Broom of Trilon	6360	1	5
+Bank5	Hand Made Backpack	17969	1	10
+Bank5-Slot1	Apothic Kilt	1244	1	5
+Bank5-Slot2	Mercenary Assignments	29624	1	5
+Bank5-Slot3	Heart of Fire	10548	1	5
+Bank5-Slot4	Greater Lightstone	10400	1	5
+Bank5-Slot5	Empty	0	0	0
+Bank5-Slot6	Empty	0	0	0
+Bank5-Slot7	Cat's Eye Agate	10026	16	5
+Bank5-Slot8	Malachite	10015	20	5
+Bank5-Slot9	Dragon Scales	12951	1	5
+Bank5-Slot10	Dragon Scales	12952	1	5
+Bank6	Deck of Spontaneous Generation	17054	1	4
+Bank6-Slot1	Smithing Chisel	7052	1	5
+Bank6-Slot2	Empty	0	0	0
+Bank6-Slot3	Crystalline Silk	25306	6	5
+Bank6-Slot4	Small Piece of Velium	22569	7	5
+Bank7	Book of Mischief	17325	1	4
+Bank7-Slot1	Frost Giant Meat	22800	2	5
+Bank7-Slot2	Empty	0	0	0
+Bank7-Slot3	Empty	0	0	0
+Bank7-Slot4	Greater Lightstone	10400	1	5
+Bank8	An Empty Pot of Gold	17326	1	2
+Bank8-Slot1	Giant Warrior Helmet	29062	1	5
+Bank8-Slot2	Bladesman's Sword	25073	1	5
+Bank9	Empty	0	0	0
+Bank10	Empty	0	0	0
+Bank11	Empty	0	0	0
+Bank12	Empty	0	0	0
+Bank13	Empty	0	0	0
+Bank14	Empty	0	0	0
+Bank15	Empty	0	0	0
+Bank16	Empty	0	0	0
+SharedBank1	Empty	0	0	0
+SharedBank2	Empty	0	0	0
