@@ -1,7 +1,7 @@
-import { NextApiRequest, NextApiResponse } from "next";
-import formidable, { IncomingForm } from "formidable";
-import fs from "fs";
-import path from "path";
+import { NextApiRequest, NextApiResponse } from 'next';
+import formidable, { IncomingForm } from 'formidable';
+import fs from 'fs';
+import path from 'path';
 
 export const config = {
   api: {
@@ -9,15 +9,15 @@ export const config = {
   },
 };
 
-const uploadDir: string = path.join(process.cwd(), "/public/uploads");
+const uploadDir: string = path.join(process.cwd(), '/public/uploads');
 
 if (!fs.existsSync(uploadDir)) {
   fs.mkdirSync(uploadDir);
 }
 
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
-  if (req.method !== "POST") {
-    return res.status(405).json({ message: "Method not allowed" });
+  if (req.method !== 'POST') {
+    return res.status(405).json({ message: 'Method not allowed' });
   }
 
   const form = new IncomingForm({
@@ -41,20 +41,20 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
       if (err) {
         return res
           .status(500)
-          .json({ message: "File upload failed", error: err });
+          .json({ message: 'File upload failed', error: err });
       }
 
       const file: formidable.File | undefined = Array.isArray(files.file)
         ? files.file[0]
         : (files.file as formidable.File | undefined);
       if (file) {
-        const filePath: string = (file as formidable.File).filepath || "";
+        const filePath: string = (file as formidable.File).filepath || '';
 
         return res
           .status(200)
-          .json({ message: "File uploaded successfully", filePath });
+          .json({ message: 'File uploaded successfully', filePath });
       } else {
-        return res.status(400).json({ message: "No file uploaded" });
+        return res.status(400).json({ message: 'No file uploaded' });
       }
     }
   );
