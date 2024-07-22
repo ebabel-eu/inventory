@@ -2,6 +2,26 @@ import { NextApiRequest, NextApiResponse } from 'next';
 import fs from 'fs';
 import path from 'path';
 
+
+const transformFileContent = (fileContent: string): string => {
+  const lines = fileContent.split('\n');
+
+  const header = lines[0].split('\t');
+
+  const data = lines.slice(1).map(line => {
+    const values = line.split('\t');
+
+    return header.reduce((acc: Record<string, string>, key, index) => {
+      acc[key] = values[index];
+    
+      return acc;
+    }, {});
+  });
+
+  return JSON.stringify(data);
+};
+
+
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const uploadsDirPath = path.resolve('.', 'public', 'uploads');
 
@@ -30,9 +50,7 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
     try {
       const fileContent = fs.readFileSync(path, 'utf8');
 
-      console.log(fileContent);
-
-      filesContent.push(fileContent);
+      filesContent.push(transformFileContent(fileContent));
     } catch (error) {
       res.status(500).json({ error: 'Error reading file' });
     }
