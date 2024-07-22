@@ -27,7 +27,7 @@ const Home = () => {
     <main>
       <h2>Upload *-Inventory.txt files</h2>
       <form id="uploadForm" onSubmit={handleSubmit}>
-        <input type="file" name="file" multiple />
+        <input type="file" name="file" multiple accept=".txt" />
         <button type="submit">Upload</button>
       </form>
 
